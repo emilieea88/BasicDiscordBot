@@ -50,7 +50,7 @@ This command sends a random photo from a folder in your GitHub repo, and is ther
    - If you have the free version of replit, your bot will go to sleep after an hour without a command and you will have to rerun it to get it working again. 
    - You could also try [this method](https://replit.com/talk/learn/Hosting-discordjs-bots-on-replit-Works-for-both-discordjs-and-Eris/11027) to constantly ping it so it doesn't fall asleep, but it adds a complexity to the code that I can't help with. 
    - You could also shell out $7 a month for the "Hacker" subscription on replit, which allows you to have 5 "always on" repls. If you choose this method, just go to the top of your repl where it says your username / your bot name and click there. There is a toggle for "always on."
-4. If you haven't already added your bot to your Discord server, visit the URL you generated in step 4 in the "Setting Up the Bot" section above. Choose the server you're inviting the bot to. 
+4. If you haven't already added your bot to your Discord server, visit the URL you generated in step 4 in the ["Setting Up the Bot"](https://github.com/emilieea88/BasicDiscordBot#setting-up-the-bot) section above. Choose the server you're inviting the bot to. 
 
 ## Thank you!
-If you enjoyed this tutorial, consider [buying me a coffee](https://ko-fi.com/emilieea88) and/or supporting the creators in the acknowledgements section above. 
+If you enjoyed this tutorial, consider [buying me a coffee](https://ko-fi.com/emilieea88) and/or supporting the creators in the [acknowledgements](https://github.com/emilieea88/BasicDiscordBot#acknowledgments) section above. 
