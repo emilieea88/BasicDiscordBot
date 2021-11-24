@@ -4,7 +4,8 @@ A very basic Discord bot for beginners with Node.js, discord.js, and JavaScript 
 ## Acknowledgments 
 I used the following resources to create this bot:
 - [CodeLyon's "Code Your Own Discord Bot" videos](https://www.youtube.com/watch?v=j_sD9udZnCk&list=PLbbLC0BLaGjpyzN1rg-gK4dUqbn8eJQq4)
-- [@AyyAvocado's Node.js 16 starter](https://replit.com/talk/learn/Nodejs-16-on-replit/85501)
+- [@AvyAvocado's Node.js 16 starter](https://replit.com/talk/learn/Nodejs-16-on-replit/85501)
+- [Node.js](https://nodejs.org) and [Discord.js](https://discord.js.org)
 
 ## How to Use this Repo to Create Your Own Bot
 ### Setting Up the Bot
@@ -20,7 +21,7 @@ I used the following resources to create this bot:
 ### Setting up the Code
 1. Fork this repo to your GitHub account.
 2. Create a [replit](https://repl.it) account if you don't already have one. This is where the bot will run. (Note: You can also run it locally by downloading [Node.js](https://nodejs.org/en/) and running it in your shell. However, you will have to always have your computer running for the bot to run.)
-3. Select "create a new repl" and in the top right corner, seleect "Import from GitHub." 
+3. Select "create a new repl" and in the top right corner, select "Import from GitHub." 
 4. Go back to the [Discord developer portal](https://discord.com/developers). Go to the Bots section on the sidebar. Copy your token and remember to **keep it secret**! Discord should notify you if it gets leaked. 
 5. Back in your repl, go to the Secrets section of the sidebar (it looks like a lock icon). Where it says "key," you can give your token a name and paste the actual token into the values section. This is how you will keep your token secret and still have a usable bot. I am calling it "mytoken" but you can choose any name you want, just remember to change it in the index.js file where it reads `const mySecret`.
 
@@ -53,4 +54,4 @@ This command sends a random photo from a folder in your GitHub repo, and is ther
 4. If you haven't already added your bot to your Discord server, visit the URL you generated in step 4 in the ["Setting Up the Bot"](https://github.com/emilieea88/BasicDiscordBot#setting-up-the-bot) section above. Choose the server you're inviting the bot to. 
 
 ## Thank you!
-If you enjoyed this tutorial, consider [buying me a coffee](https://ko-fi.com/emilieea88) and/or supporting the creators in the [acknowledgements](https://github.com/emilieea88/BasicDiscordBot#acknowledgments) section above. 
+If you enjoyed this tutorial, consider [buying me a coffee](https://ko-fi.com/emilieea88).
