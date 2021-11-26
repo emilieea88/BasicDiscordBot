@@ -41,7 +41,7 @@ This command sends a random photo from a folder in your GitHub repo, and is ther
    - Then just drag and drop the photos into the photos folder in the GitHub repo that you forked. 
    - Click on one of the new photos and view the raw image. The URL should look something like raw(.)githubusercontent(.)com/{yourusername}/.... Copy the part from your username all the way to the number of the photo. For example, up to the _ before 2 in kitty_2.jpg.
 4. Back in the pics file in your repl, paste this part that you copied in after the =, between the quotes, where it says `const str2 =''`. 
-5. After that, you should be good to go. Adding new photos to the photos folder on GitHub will not mess up the code, but it will require you to rerun the bot.
+5. After that, you should be good to go. Adding new photos to the photos folder on GitHub will not mess up the code, but it will require you to pull your code in replit and rerun the bot.
 
 ### Running the Bot
 1. Go to version control in the replit sidebar (it looks like a fork). Push your commits to your GitHub repo.
