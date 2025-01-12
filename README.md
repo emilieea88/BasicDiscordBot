@@ -54,4 +54,4 @@ This command sends a random photo from a folder in your GitHub repo, and is ther
 4. If you haven't already added your bot to your Discord server, visit the URL you generated in step 4 in the ["Setting Up the Bot"](https://github.com/emilieea88/BasicDiscordBot#setting-up-the-bot) section above. Choose the server you're inviting the bot to. 
 
 ## Thank you!
-If you enjoyed this tutorial, consider [buying me a coffee](https://ko-fi.com/emilieea88).
+If you enjoyed this tutorial, consider [buying me a coffee](https://ko-fi.com/halsin).
